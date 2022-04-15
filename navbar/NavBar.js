@@ -11,12 +11,12 @@ export default function Nav() {
             ACASĂ
           </a>
         </li>
-        <li className="nav-item current">
+        <li className="nav-item">
           <a href="#insertarticleslink" className="a">
             ARTICOLE
           </a>
         </li>
-        <li className="nav-item">
+        <li className="nav-item current">
           <a href="#insertdonatelink" className="a">
             DONEAZĂ
           </a>
