@@ -6,4 +6,16 @@
   color: var(--green);
   width: fit-content;
   font-weight: 900;
+  opacity: 1;
+  animation: left-to-right 2s;
+}
+
+@keyframes left-to-right {
+  from {
+    transform: translate(-50%);
+    opacity: 0;
+  }
+  to {
+    transform: translate(0);
+  }
 }
