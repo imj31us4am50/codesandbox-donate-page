@@ -12,10 +12,13 @@ export default function Part() {
       <div className="some-container-on-part mt-5 mb-5">
         <div className="empty p-2"></div>
         <div className="part-content text-white p-5">
-          <div className="row h3 text-center">
+          <div className="row h4 text-center">
             Împreună cu noi și cu alte persoane din această comunitate poți
             contribui la protejarea animalelor sălbatice în pericol, și nu
             numai.
+            <br />
+            Alătură-te cauzei noastre răspândind informația sau printr-o mică
+            donație.
           </div>
           <div className="row h4 text-center">
             <img
