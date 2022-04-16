@@ -2,7 +2,10 @@ import IconsDescsCSS from "/maindonpage/IconsDescs.css";
 
 export default function IconsDescs() {
   return (
-    <div className="container-fluid d-flex container-for-iconsdescs mt-5">
+    <div
+      className="container-fluid d-flex container-for-iconsdescs mt-5"
+      style={IconsDescsCSS}
+    >
       <div className="container-1 conta p-5 pt-2 mx-auto">
         <div className="icon1 mx-auto">
           <img
