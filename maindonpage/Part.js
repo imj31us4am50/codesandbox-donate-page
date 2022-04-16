@@ -20,13 +20,13 @@ export default function Part() {
             Alătură-te cauzei noastre răspândind informația sau printr-o mică
             donație.
           </div>
-          <div className="row h4 text-center">
+          <div className="row h4 text-center mx-auto">
             <img
               src="https://raw.githubusercontent.com/AvramAlexandruV/project/main/logo.png"
               className="logo-on-donate mx-auto mt-5"
             />
           </div>
-          <div className="row h4 text-center">
+          <div className="row h4 text-center mx-auto">
             <button className="btn donation-button mx-auto mt-2">
               DONEAZĂ ACUM
             </button>
