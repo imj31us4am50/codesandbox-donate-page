@@ -7,7 +7,7 @@ import IconsDescs from "/maindonpage/IconsDescs.js";
 
 export default function App2() {
   return (
-    <div className="container-fluid m-0 p-0">
+    <div className="container-fluid m-0 p-0 mb-5">
       <Part />
       <LowerPageTitle />
       <IconsDescs />
